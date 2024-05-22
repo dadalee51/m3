@@ -1,0 +1,5 @@
+1.install ArduinoOTA library
+2.change wifi password
+3.logon to classroom network
+4.choose network port.
+5.compile.
